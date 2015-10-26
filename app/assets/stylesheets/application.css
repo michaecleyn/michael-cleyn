@@ -20,7 +20,6 @@ body {
 }
 
 .main_container {
-	/*border:1px solid black;*/
 	margin:30px;
 }
 
@@ -37,11 +36,6 @@ body {
 
 .main_content p {
 	margin-top:40px;
-	/*border:1px solid blue;*/
-}
-
-.main_content .work-links {
-	/*border:1px solid red;*/
 }
 
 .main_content .twitter {
@@ -49,7 +43,6 @@ body {
 }
 
 .contact {
- /*border-top:1px solid #000;*/
  padding-top:10px;
 }
 
@@ -63,7 +56,6 @@ body {
 
 @media (max-width: 410px) {
 	.work-links {
-		/*border:1px solid red;*/
 		display:block;
 	}
 	.main_content .twitter {
